@@ -1,0 +1,11 @@
+# Python:
+venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Windows:
+*.lnk
+
+# Project:
+hashit.bat
